@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @osoisoutforlove
+- 👀 I’m interested in designing software ideal for fiction writers.
+- 🌱 I’m currently learning to code in python for software development.
+- 💞️ I’m looking to collaborate on novel writing software, word processors, and minimalist launchers.
+- 📫 Message me through github!
+- 😄 Pronouns: he/him
